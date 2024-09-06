@@ -25,10 +25,10 @@
     "translate:update": "npm run translate:sync:src && npm run translate:sync:translations"
   },
   "dependencies": {
-    "exports-loader": "0.7.0",
+    "exports-loader": "2.0.0",
     "google-closure-library": "20190301.0.0",
-    "imports-loader": "0.8.0",
-    "scratch-l10n": "3.15.20221129032252"
+    "imports-loader": "3.0.0",
+    "scratch-l10n": "3.18.13"
   },
   "devDependencies": {
     "async": "2.6.4",
